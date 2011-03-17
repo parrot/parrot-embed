@@ -64,7 +64,7 @@ $builder->create_build_script();
 sub in_parrot_tree
 {
     my $cwd     = cwd();
-    return $cwd =~ /\bext\b.Parrot/;
+    return $cwd =~ /\bext\b.Parrot/ ? 1 : 0;
 }
 
 sub get_dl_env_var
