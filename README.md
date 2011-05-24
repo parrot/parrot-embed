@@ -1,11 +1,10 @@
-Parrot::Embed
--------------
+# Parrot::Embed
 
 This is an embedding interface to use Parrot from Perl 5.
 
 Be afraid.
 
-INSTALLATION
+# Installation
 
 To install this module, run the following commands:
 
@@ -20,7 +19,7 @@ variable to tell your dynamic linker where to find the F<libparrot.so> or
 F<libparrot.dll> or F<libparrot.dylib> file to load.  I believe this is
 C<LD_LIBRARY_PATH> on Unix-like systems and C<PATH> on Windows.
 
-COPYRIGHT AND LICENCE
+# Copyright and License
 
 Copyright (C) 2006 - 2011 Parrot Foundation/chromatic
 
