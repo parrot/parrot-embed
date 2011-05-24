@@ -116,7 +116,7 @@ This code needs to support more operations on interpreters.
 
 Patches welcome.
 
-Please report any bugs or feature requests to the Parrot Porters mailing list.
+Please report any bugs or feature requests to the parrot-dev mailing list.
 Someday there may be a CPAN version of this code.  Who knows?
 
 =cut
