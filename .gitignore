@@ -4,3 +4,4 @@ Build
 MYMETA.json
 MYMETA.yml
 lib/Parrot/Embed.c
+t/greet.pbc
