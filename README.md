@@ -15,9 +15,9 @@ To install this module, run the following commands:
 
 If you're building this within the Parrot tree (that is, if you don't have a
 Parrot installed somewhere else), you need to set the proper environment
-variable to tell your dynamic linker where to find the F<libparrot.so> or
-F<libparrot.dll> or F<libparrot.dylib> file to load.  I believe this is
-C<LD_LIBRARY_PATH> on Unix-like systems and C<PATH> on Windows.
+variable to tell your dynamic linker where to find the `libparrot.so` or
+`libparrot.dll` or `libparrot.dylib` file to load.  I believe this is
+`LD_LIBRARY_PATH` on Unix-like systems and `PATH` on Windows.
 
 # Copyright and License
 
